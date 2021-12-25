@@ -3,4 +3,4 @@ then
     echo 'node.js needs to be installed'
     exit
 fi
-node "$(dirname $(which findp))/find_script/find.js" "$@"
+node "$(dirname $(which findp))/find_script/index.js" "$@"
