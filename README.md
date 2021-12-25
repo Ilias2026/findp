@@ -13,3 +13,9 @@ and this is how findp works
 ![findp](./readme/img/findp.png)
 
 in a brief findp merges find and tree together but in JavaScript!
+
+## make script global
+to execute the findp command globally execute install.sh
+```shell
+sudo ./install.sh
+```
