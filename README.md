@@ -10,6 +10,10 @@ searching for "search"
 
 and this is how findp works
 
+```
+findp [keyword] [path]
+```
+
 ![findp](./readme/img/findp.png)
 
 in a brief findp merges find and tree together but in JavaScript!
