@@ -19,7 +19,7 @@ findp [keyword] [path]
 in a brief findp merges find and tree together but in JavaScript!
 
 ## make script global
-to execute the findp command globally execute install.sh
+to execute the findp command globally run install.sh
 ```shell
 sudo ./install.sh
 ```
